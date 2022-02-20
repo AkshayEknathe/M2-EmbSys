@@ -14,6 +14,7 @@
 * Microcontroller can turn on dc fan through the optocoupler if required.
 # Heater:-
 * If the temperature falls very down heater is used.
+# HighLevel Requirements
 |ID|Description|
 |----|---------|
 |HLR01|To sense the temperature|
