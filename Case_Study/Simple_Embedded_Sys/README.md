@@ -18,3 +18,15 @@
 * Memory stores the data/Reading from the microcontroller to display it on the output screen.
 # Display Unit  :-
 * Display is used to show the result/output stored in memory .
+# HighLevel Requirements
+|ID|Description|
+|----|---------|
+|HLR01|Measure the Rotating speed|
+|HLR02|Display to show Result|
+|HLR03|Reset button to refresh the display|
+# LowLevel Requirements
+|ID|Description|
+|-----|------|
+|LLR01|Electric power or use of battery for back-up power|
+|LLR02|Display the information in correct way|
+|LLR03|Guide the user during process|
