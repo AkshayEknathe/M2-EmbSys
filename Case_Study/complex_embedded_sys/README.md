@@ -14,3 +14,15 @@
 * Microcontroller can turn on dc fan through the optocoupler if required.
 # Heater:-
 * If the temperature falls very down heater is used.
+|ID|Description|
+|----|---------|
+|HLR01|To sense the temperature|
+|HLR02|Power Supply|
+|HLR03|regulation of fan speed|
+# LowLevel Requirements
+|ID|Description|
+|-----|------|
+|LLR01|Provide air according to temperature|
+|LLR02|Display the temperature on screen|
+|LLR03|It should be able to maintain room temperature|
+|LLR04|Should Take input from user|
