@@ -16,3 +16,4 @@
 |LLR02|LED should glow green when valve is closed|
 |LLR03|Servo motor valve should close when water is full|
 |LLR04|Servo motor valve should be open when the water is less|
+|LLR05|It shall display the condition of motor if it is on or off|
