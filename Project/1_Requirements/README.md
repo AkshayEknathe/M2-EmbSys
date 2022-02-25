@@ -17,3 +17,28 @@
 |LLR03|Servo motor valve should close when water is full|
 |LLR04|Servo motor valve should be open when the water is less|
 |LLR05|It shall display the condition of motor if it is on or off|
+# SWOT
+## Strength
+* Very easy to use.
+* Quick installment.
+* Very Reliable.
+* Less maintaince.
+## Weakness
+* Lack of graphical user interface.
+* If the Ardunio gets reset the system will not work.
+* System is very sensitive we have to handle it with care.
+## Opportunity
+* Since now a days water usage is increasing so much it is very important to save the water so this kind of systems are required.
+Threats
+* Better system can be developed or designed using various other technologies.
+# 4W'S & 1H
+## WHY
+* A water level controller helps save money by limiting the waste of water and electricity.
+## WHO
+* Everyone can use this device as for their commercial aur domestic use.
+## WHEN
+* Whenerver the tank level gets low/high it starts and stops according to the requirements.
+## WHAT
+* Results into less manual work which saves human time and energy.
+## HOW
+* By setting these devices as per the requiement so as to save the loss of water and and save the motor from dry run and manual work load.
