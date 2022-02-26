@@ -20,4 +20,6 @@
 
 # Flowchart
 ![155781182-971e111a-5194-4b5d-8d29-571d4a0ea278](https://user-images.githubusercontent.com/98874290/155829020-56fb6a18-0aa7-4ca1-bb5b-1f5fcb246d14.png)
+# Behavioral diagram
+![water control](https://user-images.githubusercontent.com/98874290/155835022-91b94d5f-e4aa-462c-b031-ca8e36450571.png)
 
