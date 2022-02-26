@@ -5,22 +5,20 @@
 |ID|Description|
 |----|------|
 |HLR01|Ultrasonic Sensor should sense the level of water|
-|HLR02|LED should glow RED/GREEN|
-|HLR03|Servo Motor Should ON/OFF|
-|HLR04|Voltmeter should measure the voltage|
-|HLR05|Potentiometer should regulate the voltage properly|
+|HLR02|LED should glow|
+|HLR03|Turn off the motor when water tank is Full|
+|HLR04|Turn on the motor when water tank is empty|
 ## Low Level Requirements
 |ID|Description|
 |----|------|
 |LLR01|LED should glow Red when valve is open|
 |LLR02|LED should glow green when valve is closed|
-|LLR03|Servo motor valve should close when water is full|
-|LLR04|Servo motor valve should be open when the water is less|
-|LLR05|It shall display the condition of motor if it is on or off|
+|LLR03|It shall display that weather the motor is running or not|
+|LLR04|It shall display the status of PowerSupply if it is on or off|
 # SWOT
 ## Strength
 * Very easy to use.
-* Quick installment.
+* Quick installtion.
 * Very Reliable.
 * Less maintaince.
 ## Weakness
@@ -30,8 +28,8 @@
 ## Opportunity
 * Since now a days water usage is increasing so much it is very important to save the water so this kind of systems are required.
 ## Threats
-* Better system can be developed or designed using various other technologies.
-# 5W'S & 1H
+* More advance technology is there to overcome this issue.
+# 4W'S & 1H
 ## WHY
 * A water level controller helps save money by limiting the waste of water and electricity.
 ## WHO
