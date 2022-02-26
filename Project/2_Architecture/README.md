@@ -21,3 +21,6 @@
 ## Main Switch:-
 * A main switch detects the level of a water in a tank. Based on the water level, it will open or close an electrical circuit generally used to pump water in or out of the tank.
 * Switch Supply is used to provide voltage to the Arduino, Servo motor, Sensors etc.
+# Flowchart
+![155781182-971e111a-5194-4b5d-8d29-571d4a0ea278](https://user-images.githubusercontent.com/98874290/155829020-56fb6a18-0aa7-4ca1-bb5b-1f5fcb246d14.png)
+
