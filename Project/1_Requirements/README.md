@@ -42,3 +42,11 @@ Threats
 * Results into less manual work which saves human time and energy.
 ## HOW
 * By setting these devices as per the requiement so as to save the loss of water and and save the motor from dry run and manual work load.
+## Applications
+* It can be widely used for the household purposes to avoid the wastage of water through the water tanks.
+* It can be widely used in chemical industries to manage the liquid filled in the big tanks.
+* It can be used in nuclear power plants as the water controlling systems is essential.
+* It can be also used in the thermal power plants .
+* It also finds a wide applications in the oil refineries industries.
+* It can be used in dairy farms.
+* It can be also used in water purification plant.
