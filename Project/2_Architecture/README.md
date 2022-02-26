@@ -1,5 +1,6 @@
 # Block Diagram
-![block](https://user-images.githubusercontent.com/98874290/155828541-a5e75ee7-9293-4ebd-991b-c3240d9631e2.png)
+![FINAL BLOCK DIAGRAM](https://user-images.githubusercontent.com/98874290/155833921-381ffa6d-edca-4190-a41b-7a66b7e2fa4a.png)
+
 # Components
 
 ## Arduino :-
