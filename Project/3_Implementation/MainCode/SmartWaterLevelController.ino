@@ -1,3 +1,13 @@
+/**
+ * @file SmartWaterLevelController.ino
+ * @author Akshay Vinayak Eknathe (akshayeknathe8788@gmail.com)
+ * @brief Code For Smart Water level Controller Using Arduino
+ * @version 0.1
+ * @date 2022-03-07
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <Servo.h>
 #define trigpin 7
 /**
@@ -47,7 +57,7 @@ distance = ( duration / 2) / 29.1;
 Serial.println("cm:");
 Serial.println(distance);
 
-if( (distance > 0) && (distance <= 25) )//if water level is less than 10%
+if( (distance > 0) && (distance <= 25) )//if water level is between 0-25%
 {
 digitalWrite(led1, HIGH);
 digitalWrite(led2, HIGH);
@@ -56,7 +66,7 @@ digitalWrite(led4, HIGH);
 myservo.write(90);
 } else
 
-if( (distance > 25) && (distance <= 50) )//if water level is 30%
+if( (distance > 25) && (distance <= 50) )//if water level is between 25-50%
 {
 digitalWrite(led1, LOW);
 digitalWrite(led2, HIGH);
@@ -64,7 +74,7 @@ digitalWrite(led3, HIGH);
 digitalWrite(led4, HIGH);
 myservo.write(90);
 } else
-if( (distance > 50) && (distance <= 75) )//if water level is less than 50%
+if( (distance > 50) && (distance <= 75) )//if water level is between 50-75%
 {
 digitalWrite(led1, LOW);
 digitalWrite(led2, LOW);
