@@ -9,6 +9,10 @@
  * 
  */
 #include <Servo.h>
+/**
+ * @brief defining 7th pin as trigpin
+ * 
+ */
 #define trigpin 7
 /**
  * @brief defining 6th pin as ecopin
