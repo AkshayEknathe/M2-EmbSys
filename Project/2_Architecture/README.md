@@ -1,5 +1,5 @@
 # Block Diagram
-![FINAL BLOCK DIAGRAM](https://user-images.githubusercontent.com/98874290/155833921-381ffa6d-edca-4190-a41b-7a66b7e2fa4a.png)
+![blockDiagram](https://user-images.githubusercontent.com/98874290/157085630-ef93102e-df00-4e71-9220-ce289b208393.png)
 
 # Components
 
