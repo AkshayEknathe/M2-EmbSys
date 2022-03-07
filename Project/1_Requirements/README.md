@@ -11,10 +11,10 @@
 ## Low Level Requirements
 |ID|Description|
 |----|------|
-|LLR01|LED should glow Red when valve is open|
-|LLR02|LED should glow green when valve is closed|
-|LLR03|It shall display that weather the motor is running or not|
-|LLR04|It shall display the status of PowerSupply if it is on or off|
+|LLR01|All the LEDs should glow  when Water Level iS between 0-25%|
+|LLR02|Green,Yellow & Orange  LEDs should glow  when Water Level iS between 25%-50%|
+|LLR03|Green & Yellow LEDs should glow  when Water Level iS between 50%-75%|
+|LLR04|Green LED should glow  when Water Level iS between 75%-100%|
 # SWOT
 ## Strength
 * Very easy to use.
