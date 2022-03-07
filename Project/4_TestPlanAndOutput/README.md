@@ -12,5 +12,4 @@
 |T1|When the water level is between 0 -25% |Values By Ultrasonic Sensor|All The Leds Should Glow & Motor should be ON|All 4 LEDs are Glowing & Motor Turned ON|Test Passed|Manual Testing|
 |T2|When the water level is between 25%-50% |Values By Ultrasonic Sensor|Green,Yellow & Orange Leds Should Glow & Motor should be ON|Green,Yellow & Orange LEDs are Glowing & Motor Turned ON|Test Passed|Manual Testing|
 |T3|When the water level is between 50%-75% |Values By Ultrasonic Sensor|Green & Yellow Leds Should Glow & Motor should be ON|Green & Yellow  LEDs are Glowing & Motor Turned ON|Test Passed|Manual Testing|
-|T4|When the water level is between 75%-99% |Values By Ultrasonic Sensor|Green Led Should Glow & Motor should be ON|Green   LED is  Glowing & Motor Turned ON|Test Passed|Manual Testing|
-|T5|When the Tank is Full |Values By Ultrasonic Sensor|NO Leds Should Glow & Motor should be OFF|NO LEDs are Glowing & Motor Turned OFF|Test Passed|Manual Testing|
+|T4|When the Tank is Full |Values By Ultrasonic Sensor|Only Green  Led Should Glow & Motor should be OFF|Green LED is Glowing & Motor Turned OFF|Test Passed|Manual Testing|
