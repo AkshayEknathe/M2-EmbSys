@@ -11,4 +11,5 @@ Water is one of the most important resources on earth. Almost 70% of earth’s s
 |5_Report|	Details about project|
 |6_ImagesAndVideos|	Images of working of project|
 |7_Other|	References|
+
 [![Cpp-Check](https://github.com/AkshayEknathe/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AkshayEknathe/M2-EmbSys/actions/workflows/c-cpp.yml)
