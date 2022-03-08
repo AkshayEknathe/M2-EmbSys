@@ -5,7 +5,7 @@
 ## Badges
 |Cpp Badge|Codeacy Badge|
 |-----|-------|
-|[![Cpp-Check](https://github.com/AkshayEknathe/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AkshayEknathe/M2-EmbSys/actions/workflows/c-cpp.yml)|[![Cpp-Check](https://github.com/AkshayEknathe/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AkshayEknathe/M2-EmbSys/actions/workflows/c-cpp.yml)|
+|[![Cpp-Check](https://github.com/AkshayEknathe/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AkshayEknathe/M2-EmbSys/actions/workflows/c-cpp.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a2b56abd524b4513aa4fbdc4c19bcced)](https://www.codacy.com/gh/AkshayEknathe/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AkshayEknathe/M2-EmbSys&amp;utm_campaign=Badge_Grade)|
 ## Folder structure
 |Folder Name|Description|
 |-----------|------------|
