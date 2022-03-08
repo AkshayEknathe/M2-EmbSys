@@ -80,7 +80,7 @@
 * The mechanical system of sensor is destined to convert linearly the value of potentiometer resistance to the water level variation. The signal conditioning consists of analog and digital system especially microcontroller circuit.
 
 # Flowchart
-![155781182-971e111a-5194-4b5d-8d29-571d4a0ea278](https://user-images.githubusercontent.com/98874290/155829020-56fb6a18-0aa7-4ca1-bb5b-1f5fcb246d14.png)
+![flowchart123](https://user-images.githubusercontent.com/98874290/157188790-cf9e9dc9-d638-42de-a0f6-64c94acc988b.png)
 
 
 
