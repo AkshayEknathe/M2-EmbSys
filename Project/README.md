@@ -1,11 +1,12 @@
 # Smart Water Level Controller Using Arduino.
-## Introduction :- 
-* Water is one of the most important resources on earth. Almost 70% of earth’s surface is covered with water from which 2% is fresh water. Now days everyone has a busyschedule which consumes the time for checking the water level at every instance. The project presents an idea of “Smart water Level Controller Using Arduino”. This project was carried out to make user’s life easy and time saving. The project includes the components such as relay and Arduino for controlling the pump to avoid the wastage of water.
-* Smart water level controller senses the level of water in a tank and drives the water pump. Water level controllers switch the motor ON whenever the water level drops below a certain level and shuts the motor OFF when the water rises well above a fixed level. This circuit which will detect the water level and will Glow the Unique led colours to show the water level in the Tank.
 ## Badges
 |Cpp Badge|Codeacy Badge|Codiga Score|Code grade|
 |-----|-------|-------|-------|
 |[![Cpp-Check](https://github.com/AkshayEknathe/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AkshayEknathe/M2-EmbSys/actions/workflows/c-cpp.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a2b56abd524b4513aa4fbdc4c19bcced)](https://www.codacy.com/gh/AkshayEknathe/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AkshayEknathe/M2-EmbSys&amp;utm_campaign=Badge_Grade)|![svg](https://user-images.githubusercontent.com/98874290/157173223-0d141e1c-464f-4cf9-bf3b-8251fbbc25d3.svg)|![svg](https://user-images.githubusercontent.com/98874290/157173245-2d28bc64-f2c4-47a8-9837-cafbf22256e5.svg)|
+## Introduction/Abstract :- 
+* Water is one of the most important resources on earth. Almost 70% of earth’s surface is covered with water from which 2% is fresh water. Now days everyone has a busyschedule which consumes the time for checking the water level at every instance. The project presents an idea of “Smart water Level Controller Using Arduino”. This project was carried out to make user’s life easy and time saving. The project includes the components such as relay and Arduino for controlling the pump to avoid the wastage of water.
+* Smart water level controller senses the level of water in a tank and drives the water pump. Water level controllers switch the motor ON whenever the water level drops below a certain level and shuts the motor OFF when the water rises well above a fixed level. This circuit which will detect the water level and will Glow the Unique led colours to show the water level in the Tank.
+
 ## Folder structure
 |Folder Name|Description|
 |-----------|------------|
