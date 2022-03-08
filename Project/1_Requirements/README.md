@@ -1,6 +1,7 @@
 # Smart Water Level Controller Using Arduino
 ## Introduction : -
 * Automation of smart system is the essence of today's world. the “Smart Water Level Controller Using Arduino ”, can be an appropriate example for the smart system. In the recent times due to to the huge scarcity of water resources frequent droughts have been occurring, due to which the various initiatives have been undertaken, out of which one is the system that will serve to save the water that is being wasted in the households, agriculture's and in different industries . some of the hazardous incidents such as the boiler bursts due to the lowering of the water level also can be avoided, which is also controlled by using this smart system.
+* Smart water level controller senses the level of water in a tank and drives the water pump. Water level controllers switch the motor ON whenever the water level drops below a certain level and shuts the motor OFF when the water rises well above a fixed level. This circuit which will detect the water level and will Glow the Unique led colours to show the water level in the Tank
 ## High Level Requirements
 |ID|Description|
 |----|------|
