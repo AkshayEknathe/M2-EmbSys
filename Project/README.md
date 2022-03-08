@@ -5,7 +5,7 @@
 ## Badges
 |Cpp Badge|Codeacy Badge|Codiga Score|Code grade|
 |-----|-------|-------|-------|
-|[![Cpp-Check](https://github.com/AkshayEknathe/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AkshayEknathe/M2-EmbSys/actions/workflows/c-cpp.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a2b56abd524b4513aa4fbdc4c19bcced)](https://www.codacy.com/gh/AkshayEknathe/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AkshayEknathe/M2-EmbSys&amp;utm_campaign=Badge_Grade)|https://api.codiga.io/project/31658/score/svg|https://api.codiga.io/project/31658/status/svg|
+|[![Cpp-Check](https://github.com/AkshayEknathe/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AkshayEknathe/M2-EmbSys/actions/workflows/c-cpp.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a2b56abd524b4513aa4fbdc4c19bcced)](https://www.codacy.com/gh/AkshayEknathe/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AkshayEknathe/M2-EmbSys&amp;utm_campaign=Badge_Grade)|![svg](https://user-images.githubusercontent.com/98874290/157173223-0d141e1c-464f-4cf9-bf3b-8251fbbc25d3.svg)|![svg](https://user-images.githubusercontent.com/98874290/157173245-2d28bc64-f2c4-47a8-9837-cafbf22256e5.svg)|
 ## Folder structure
 |Folder Name|Description|
 |-----------|------------|
