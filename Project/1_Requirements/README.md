@@ -14,20 +14,24 @@
 |LLR01|All the LEDs should glow  when Water Level iS between 0-25%|
 |LLR02|Green,Yellow & Orange  LEDs should glow  when Water Level iS between 25%-50%|
 |LLR03|Green & Yellow LEDs should glow  when Water Level iS between 50%-75%|
-|LLR04|Green LED should glow  when Water Level iS between 75%-100%|
+|LLR04|Green LED should glow  when Water Level is between 75%-100%|
 # SWOT
 ## Strength
 * Very easy to use.
 * Quick installtion.
-* Very Reliable.
 * Less maintaince.
+* Highly reliable and Economically competitive.
+* Enhanced Security of Urban Water supply and Water use efficiency.
 ## Weakness
 * Lack of graphical user interface.
 * If the Ardunio gets reset the system will not work.
 * System is very sensitive we have to handle it with care.
+* The automatic water level controller shows poor durability.
 ## Opportunity
 * Since now a days water usage is increasing so much it is very important to save the water so this kind of systems are required.
+* Maximize Water supply Benefits and provide balanced allocation of water resources.
 ## Threats
+* Fault in the circuit will cause problem in water supply.
 * More advance technology is there to overcome this issue.
 # 4W'S & 1H
 ## WHY

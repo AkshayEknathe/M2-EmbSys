@@ -9,14 +9,14 @@
 * Arduino UNO is a low-cost, flexible, and easy-to-use programmable open-source microcontroller board that can be integrated into a variety of electronic projects. This board can be interfaced with other Arduino boards ,and can control relays, LEDs, servos, and motors as an output.
 ## Ultrasonic Sensor (HC-SR01) :-
 * To determine the distance to the water, it transmits a sound pulse that reflects from the surface of the water and measures the time it takes for the echo to return. To automatically control open and close the water gate, we use Ultrasonic sensors as input values.
-## Motor/Water pump :-
+## Servo Motor/Water pump(Actuator) :-
 * Pump is a mechanical device which converts the mechanical energy into the pressure energy. It creates the partial vacuum in the suction side and sucks the liquid which is delivered with high pressure at a required height.
 ## LED :-
 * LED is a semiconductor device used in many electronic devices, mostly used for indication purposes. It is used widely as indicator during test for checking the validity of results at different stages.
 ## Power Supply:-
 *  It suppy power to all the components in the system.This is one of the most important part of the System.
-## Relay :-
-* Relay is an electrically operated switch . Relay have 2-channels connected to the arduino, and in between the battery and the pump. The arduino commands to relay to switch-off the pump when the tank is fully filled. Simply, it acts as a circuit breaker.
+## Potentiometer :-
+* The mechanical system of sensor is destined to convert linearly the value of potentiometer resistance to the water level variation. The signal conditioning consists of analog and digital system especially microcontroller circuit.
 
 # Flowchart
 ![155781182-971e111a-5194-4b5d-8d29-571d4a0ea278](https://user-images.githubusercontent.com/98874290/155829020-56fb6a18-0aa7-4ca1-bb5b-1f5fcb246d14.png)
