@@ -17,6 +17,9 @@
 |LLR03|Green & Yellow LEDs should glow  when Water Level iS between 50%-75%|
 |LLR04|Green LED should glow  when Water Level is between 75%-100%|
 # SWOT
+
+![SWOT](https://user-images.githubusercontent.com/98874290/157167000-0058b0ac-7342-43f8-a892-952d3dd361d3.png)
+
 ## Strength
 * Very easy to use.
 * Quick installtion.
