@@ -25,6 +25,6 @@
 
 
 
-
+# Model Diagram
 ![water-level-controller-500x500](https://user-images.githubusercontent.com/98874290/157191244-c93decbd-c6dc-4c4f-abbc-ce568fb1864c.jpeg)
 
